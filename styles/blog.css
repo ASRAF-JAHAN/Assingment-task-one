@@ -96,3 +96,15 @@ body{
 .Flower-three{
     padding:30px 50px 0px 50px;
 }
+.under-line{
+    display: flex;
+    color: #272727;
+    width: 65%;
+    margin: auto;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
