@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header part work */
+.Top-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgba(229, 84, 115, 0.10);
+    height: 800px;
+}
+.head-line{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+.text-part{
+       padding: 150px 0px 140px 200px;
+       text-align: left;
+}
+.paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btn-praimary{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    padding: 20px 40px;
+}
+.big-flower{
+    
+}
