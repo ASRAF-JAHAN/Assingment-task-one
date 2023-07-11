@@ -188,7 +188,7 @@ body{
     color: rgba(39, 39, 39, 0.60);
     font-size: 15px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 20px;
     margin-top: 10px;
 }
 .deal-email{
@@ -202,7 +202,7 @@ body{
     font-size: 20px;
     font-weight: 700;
 }
-/* bonus sectio work */
+/* bonus section work */
 .for-conversation{
     text-align: center;
     margin-top: 120px;
@@ -279,7 +279,7 @@ body{
     text-align: center;
 }
 .end-title{
-    font-size: 30px;
+    font-size: 48px;
     font-weight: 800;
     padding-top: 100px;
 }
@@ -295,5 +295,8 @@ body{
     font-size: 12px;
     font-weight: 200;
     margin-top: 10px;
+}
+.special{
+    color: #E55473;
 }
 
