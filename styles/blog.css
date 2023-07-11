@@ -36,6 +36,7 @@ body{
     background: #E55473;
     border: 0px;
     padding: 20px 40px;
+    color:#FFF;
 }
 .big-flower{
     
@@ -141,4 +142,63 @@ body{
 }
 .design{
    color: #E55473;
+}
+/* instragram section work */
+.instragram-section{
+    margin-top: 80px;
+    text-align: center;
+}
+.instra-head{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.instra-description{
+    color: rgba(39, 39, 39, 0.60);
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.instra-picture{
+    display: flex;
+    gap: 2px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 45px 200px 120px 200px;
+}
+.Deal-section{
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    text-align: center;
+    width: 77%;
+    margin: auto;
+    height: 400px;
+    background-repeat:no-repeat;
+}
+.deal-input{
+    text-align: center;
+}
+.deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 10px;
+}
+.deal-email{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px 500px 20px 20px;
+    margin-top: 50px;
+}
+#btn-id{
+    font-size: 20px;
+    font-weight: 700;
 }
