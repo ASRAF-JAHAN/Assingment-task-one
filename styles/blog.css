@@ -202,3 +202,71 @@ body{
     font-size: 20px;
     font-weight: 700;
 }
+/* bonus sectio work */
+.for-conversation{
+    text-align: center;
+    margin-top: 120px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.conversation-line{
+    width: 10%;
+    margin: auto;
+    border: 2px solid gray;
+}
+.information{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width:70%;
+    margin: auto;
+    margin-top: 20px;
+}
+.information-title{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+.address-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 10px;
+}
+.conversation-info-bar{
+    text-align: center;
+}
+.info-bar-first{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 10px 300px 10px 20px;
+    margin-top: 70px;
+}
+.info-bar-second{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 10px 300px 10px 20px;
+    margin-top:70px;
+    margin-bottom: 30px;
+}
+.info-bar-text{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 20px 220px 40px 20px;
+    width: 45%;
+    margin: auto;
+}
+#btn-send{
+    font-size: 20px;
+    font-weight: 700;
+}
+
